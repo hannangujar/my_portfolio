@@ -29,3 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# I don't want to show my database.yml file
+/config/database.yml
+
+# I don't want to show my credentials.yml.enc
+/config/credentials.yml.enc
